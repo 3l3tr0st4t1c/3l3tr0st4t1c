@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="assets/giphy.gif" width="50%" alt="3l3tr0st4t1c Header" />
+<img src="assets/giphy.gif" width="10%" height ="250" alt="3l3tr0st4t1c Header" />
 
 
 <!-- Banner SVG em estilo Dark / Red Terminal -->
