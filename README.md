@@ -5,7 +5,7 @@
 
 
 <!-- Banner SVG em estilo Dark / Red Terminal -->
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=3l3tr0st4t1c&fontSize=65&fontColor=e63946&animation=twinkling&fontAlignY=38](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=3l3tr0st4t1c&fontSize=65&fontColor=e63946&animation=twinkling&fontAlignY=38)" width="50%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=3l3tr0st4t1c&fontSize=65&fontColor=e63946&animation=twinkling&fontAlignY=38](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=3l3tr0st4t1c&fontSize=65&fontColor=e63946&animation=twinkling&fontAlignY=38)" width="25%" />
 
 > *"The quieter you become, the more you can hear."*
 
